@@ -12,5 +12,5 @@ Link: https://gabieusa.github.io/projeto-one-piece-final/
 <div>
   
 ### One Piece
-<img src="https://gabieusa.github.io/projeto-one-piece-final/master/"  width="100" height="100"/>
-  </div>
+<img src="https://gabieusa.github.io/projeto-one-piece-final/src/imagens/personagem-nami.png"  width="100" height="100"/>
+ </div>
