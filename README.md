@@ -3,8 +3,8 @@
 
 Programa DEV em Dobro 
 Liguagens Utilizadas
-HTML 
-CSS
+HTML,
+CSS e
 Javascript
 
 <p align="lift">
