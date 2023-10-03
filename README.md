@@ -1,7 +1,7 @@
 # Projeto-one-piece-final
 
 
-Programa DEV em Dobro 
+Programa DEV em Dobro:  
 Liguagens Utilizadas
 HTML,
 CSS e
